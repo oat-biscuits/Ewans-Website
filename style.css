@@ -1,0 +1,89 @@
+body {
+    font-family: "Atma", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 14pt;
+    background-color: #FFDCCC;
+}
+
+.atma-light {
+    font-family: "Atma", system-ui;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .atma-regular {
+    font-family: "Atma", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .atma-medium {
+    font-family: "Atma", system-ui;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .atma-semibold {
+    font-family: "Atma", system-ui;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .atma-bold {
+    font-family: "Atma", system-ui;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+
+h1 {
+    color: #B7B1F2;
+    background-color: #FDB7EA;
+    text-transform: uppercase;
+}
+
+#header {
+    text-align: center;
+}
+#red-car {
+    width:150px
+}
+
+h2{
+    color: #FDB7EA;
+}
+
+#cars1 {
+    margin: 5px;
+}
+
+#cars2 {
+    margin-left: 50%;
+    margin-right: 25%;
+}
+
+#trailer {
+    color:#FBF3B9;
+    font-weight: 900;
+}
+
+p {
+    color:#B7B1F2;
+}
+
+#subtitle {
+    text-align: center;
+}
+
+#link {
+    color:#B7B1F2
+}
+
+#footer {
+    text-align: center;
+}
+
+#weight {
+    font-weight: bold;
+}
